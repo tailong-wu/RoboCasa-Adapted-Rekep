@@ -1,0 +1,3 @@
+[submodule "submodules/robocasa"]
+	path = submodules/robocasa
+	url = https://github.com/robocasa/robocasa.git
